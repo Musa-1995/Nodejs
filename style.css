@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: skyblue;
+    color: whitesmoke;
+}
+h1{
+    font-size: 2rem;
+}
+p{
+    font-size: 1rem;
+}
